@@ -1,0 +1,45 @@
+Prompt:
+Create a C program for a 2D Graphics Editor using structures, unions, and enums. The editor should support drawing lines, rectangles, circles, and triangles on an 80x24 ASCII canvas.
+
+Response:
+Generated a complete menu-driven C program implementing the required graphics editor functionality.
+
+Prompt:
+Fix the drawCircle() function using the Midpoint Circle Algorithm.
+
+Response:
+Updated the circle drawing logic to correctly implement 8-way symmetry and render circles properly.
+
+Prompt:
+The program is failing some test cases. Suggest changes to the line drawing algorithm.
+
+Response:
+Provided a DDA-based line drawing algorithm and explained how to integrate it into the project.
+
+Prompt:
+Create a simple README.md file for this mini project.
+
+Response:
+Generated a student-friendly README.md containing project overview, features, compilation instructions, and author details.
+
+Prompt:
+What Git commands should I use to push my project to GitHub?
+
+Response:
+git add .
+git commit -m "Mini Project Submission"
+git push origin main
+
+Prompt:
+How do I add a README file and push it to GitHub?
+
+Response:
+git add README.md
+git commit -m "Added README"
+git push origin main
+
+Prompt:
+What is a README file?
+
+Response:
+Explained the purpose of README.md and provided a sample README for the project.
